@@ -1,4 +1,4 @@
-![Page 01](https://github.com/user-attachments/assets/e61f0e5d-a7a6-427f-a7d1-aaab346c217b)# 📊 Superstore Sales Performance Dashboard
+# 📊 Superstore Sales Performance Dashboard
 
 ## 🎯 Project Objective
 - Analyze Superstore sales data to track sales, profit, and quantity.
