@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Performance Dashboard
+![Page 01](https://github.com/user-attachments/assets/e61f0e5d-a7a6-427f-a7d1-aaab346c217b)# 📊 Superstore Sales Performance Dashboard
 
 ## 🎯 Project Objective
 - Analyze Superstore sales data to track sales, profit, and quantity.
@@ -8,10 +8,16 @@
 ---
 
 ## 📂 Dataset Used
-- **Superstore Sales Dataset (CSV format)**
+- **Superstore Sales Dataset)** <a href="https://github.com/sabaribala2004-dataanalyst/Power-BI-Superstore-Sales-Dashboard/blob/main/SuperStoreOrders.csv"> Dataset</a>
 - Columns included: `Order Date`, `Region`, `Category`, `Sales`, `Profit`, `Quantity`, `Customer Segment`, `Country`, `State`, `Shipping Mode`.
 
 ---
+
+## 📤 Files
+- `Page 01.JPG` → Sales Performance Dashboard
+- `Page 02.JPG` → Detailed Insights Dashboard
+- `Page 03.JPG` → Overall Key Insights 
+- `TASK 8 DA.pdf` → Task Instructions 
 
 ## 🔑 Key KPIs
 - **Total Sales Revenue** – $12.64M
@@ -22,7 +28,7 @@
 
 ---
 
-## 📊 Dashboard Overview
+## 📊 Dashboard Overview <a href="https://github.com/sabaribala2004-dataanalyst/Power-BI-Superstore-Sales-Dashboard/blob/main/Superstore%20Sales%20Dashboard.pbix"> View Dashboard Main File </a>
 
 ### 📌 Page 1 – Superstore Sales Performance
 ![Page 01](https://github.com/user-attachments/assets/7e01f762-6d72-4127-81f9-21b2185d11a3)
@@ -38,7 +44,9 @@
 ---
 
 ### 📌 Page 2 – Superstore Detailed Insights
-![Page 01](https://github.com/user-attachments/assets/8284be35-4abe-4928-92e9-00416adf2b9b)
+![Page 02](https://github.com/user-attachments/assets/db8f5eca-8323-4493-b4d6-1aaaea237f52)
+
+
 
 
 #### Key Insights:
@@ -50,7 +58,8 @@
 
 
 ### 📌 Page 3 – Overall Key Insights
-![Page 01](https://github.com/user-attachments/assets/d005521a-45a5-4e52-be69-35ad9da8cb3e)
+![Page 03](https://github.com/user-attachments/assets/0c91f302-8b6b-4902-b8dd-163455b997ef)
+
 
 ---
 
@@ -71,8 +80,5 @@
 
 ---
 
-## 📤 Files
-- `Page 01.JPG` → Sales Performance Dashboard
-- `Page 02.JPG` → Detailed Insights Dashboard
-- `TASK 8 DA.pdf` → Task Instructions
+
 
