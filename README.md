@@ -9,15 +9,9 @@
 
 ## 📂 Dataset Used
 - Superstore Sales Dataset : <a href="https://github.com/sabaribala2004-dataanalyst/Power-BI-Superstore-Sales-Dashboard/blob/main/SuperStoreOrders.csv"> Dataset</a>
-- Columns included: `Order Date`, `Region`, `Category`, `Sales`, `Profit`, `Quantity`, `Customer Segment`, `Country`, `State`, `Shipping Mode`.
+- Columns included: `Order Date`, `Region`, `Category`, `Sales`, `Profit`, `Quantity`, `Customer Segment`, `Country`, `State`, `Shipping Mode`
 
----
 
-## 📤 Files
-- `Page 01.JPG` → Sales Performance Dashboard
-- `Page 02.JPG` → Detailed Insights Dashboard
-- `Page 03.JPG` → Overall Key Insights 
-- `TASK 8 DA.pdf` → Task Instructions 
 
 ## 🔑 Key KPIs
 - **Total Sales Revenue** – $12.64M
