@@ -8,7 +8,7 @@
 ---
 
 ## 📂 Dataset Used
-- **Superstore Sales Dataset : ** <a href="https://github.com/sabaribala2004-dataanalyst/Power-BI-Superstore-Sales-Dashboard/blob/main/SuperStoreOrders.csv"> Dataset</a>
+- Superstore Sales Dataset : <a href="https://github.com/sabaribala2004-dataanalyst/Power-BI-Superstore-Sales-Dashboard/blob/main/SuperStoreOrders.csv"> Dataset</a>
 - Columns included: `Order Date`, `Region`, `Category`, `Sales`, `Profit`, `Quantity`, `Customer Segment`, `Country`, `State`, `Shipping Mode`.
 
 ---
